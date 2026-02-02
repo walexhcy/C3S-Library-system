@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "book_id": "b69a9b65",
+      "title": "Making it Big",
+      "author": "KZ",
+      "is_available": true
+    },
+    {
+      "book_id": "ae35b979",
+      "title": "Learn python",
+      "author": "Victor Cypher",
+      "is_available": false
+    }
+  ],
+  "members": [
+    {
+      "person_id": "1",
+      "name": "Wilson"
+    },
+    {
+      "person_id": "0706248",
+      "name": "walexhcy"
+    }
+  ],
+  "loans": [
+    {
+      "loan_id": "de56a8e5",
+      "member_id": "0706248",
+      "book_id": "ae35b979"
+    }
+  ]
+}
